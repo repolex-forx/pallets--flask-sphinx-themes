@@ -1,0 +1,11 @@
+{
+  "org": "pallets",
+  "repo": "flask-sphinx-themes",
+  "versions": [
+    {
+      "commit": "3d562d0f6869f4a1845f8c68cdbcd0139d1e0bbf",
+      "tag": "",
+      "parsed_at": "2026-10-11T07:58:51.932204+00:00"
+    }
+  ]
+}
