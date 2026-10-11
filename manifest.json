@@ -1,0 +1,31 @@
+{
+  "manifest_version": "1.0",
+  "org": "pallets",
+  "repo": "flask-sphinx-themes",
+  "versions": [
+    {
+      "commit": "3d562d0f6869f4a1845f8c68cdbcd0139d1e0bbf",
+      "parsed_at": "2026-10-11T07:56:25.676627+00:00",
+      "filetree": "filetree/3d562d0f6869f4a1845f8c68cdbcd0139d1e0bbf.nq.gz",
+      "blobs": [
+        "blob/a1ccca7c7b2c781c0fa96338866f9ded386de904.nq.gz",
+        "blob/7761bfb43b626cdb9e8690b1386c74de196dce09.nq.gz",
+        "blob/390e395562392a95e337cf05005eae621b6d710f.nq.gz",
+        "blob/f97c9d17db2c60f8b1cdc43753e5568a720c2bc1.nq.gz",
+        "blob/8daab7ee6efe3b6f3c2a2594b711e7a9026eb5e2.nq.gz",
+        "blob/e38950d572b87fb065d6d5c088e0eb83b4aeaf62.nq.gz",
+        "blob/b0c226357463ba71fb7cd03627292c9d8bab5400.nq.gz",
+        "blob/b43b19d54979e0ee95d83b761c905ca489f466d4.nq.gz",
+        "blob/2329b0d4774cf8a3ff178e78c4728bf32215f2e5.nq.gz",
+        "blob/0c1b3fdab5deda4275622b2444e253c8a75b6935.nq.gz",
+        "blob/6b4c771eeeaa32545931cab1496786626db6bea1.nq.gz",
+        "blob/ff6b757f66f7503a6e661e4283592e8d88fb77ae.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
