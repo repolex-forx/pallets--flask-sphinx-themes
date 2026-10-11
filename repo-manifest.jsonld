@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/pallets/flask-sphinx-themes/commit/3d562d0f6869f4a1845f8c68cdbcd0139d1e0bbf",
       "git:hexsha": "3d562d0f6869f4a1845f8c68cdbcd0139d1e0bbf",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-11T07:58:51.931698+00:00"
     },
     {
       "@id": "https://repolex.ai/r/pallets/flask-sphinx-themes/commit/790fc09553d94df3d3d559625f43b06907db5cf0",
